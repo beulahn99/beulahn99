@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @beulahn99
-- 😊 I got into medical university at 16 and received a medical degree in 2021 and am now pivoting into the captivating world of tech. I intend to merge this with my medical  background.
+- 😊 I got into medical university at 16, received a medical degree in 2021 and am now pivoting into the captivating world of tech. I intend to merge this with my medical  background.
 - 👀 I’m interested in Data Science, Big Data Analytics, Fitness and Health, Philosophy, and trying out new hobbies!
 - 🌱 I’m currently learning BI and Data Analytics, Web Development, and Tai chi 
 - 💞️ I’m looking to collaborate on data analytics and data management tasks, front and backend web design with HTML/CSS, JavaScript.
