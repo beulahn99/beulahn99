@@ -6,7 +6,7 @@
 - 🤝  I’m looking to collaborate on data analytics and machine learning projects.
 - 📫 Feel free to reach out: beulahn99@gmail.com
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I’ve been teaching English and practicing yoga since 2019—turns out, they’re both great exercises for mind and body!
+- ⚡ Fun fact: I’ve been teaching English and practicing yoga for the same amount of time - since 2019!
 
 
 <!---
