@@ -6,7 +6,7 @@
 - 🏢 Currently, I’m a Technical Writing Co-op at BlackBerry QNX. 
 - 🤝  I’m looking to collaborate on data analytics and machine learning projects.
 - 📫 Feel free to reach out: beulahn99@gmail.com
-- 🧾 Check out my blog at [https://medium.com/@beyulalex99]
+- 🧾 Check out my blog at https://medium.com/@beyulalex99
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I’ve been teaching English and practicing yoga for the same amount of time - since 2019!
 
