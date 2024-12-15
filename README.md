@@ -5,8 +5,8 @@
 - 🚀 I’m currently expanding my skillset in machine learning (Python), statistics, and technical writing.
 - 🏢 Currently, I’m a Technical Writing Co-op at BlackBerry QNX. 
 - 🤝  I’m looking to collaborate on data analytics and machine learning projects.
-- 📫 Feel free to reach out: beulahn99@gmail.com
-- 🧾 Check out my blog at https://medium.com/@beyulalex99
+- 📫 Feel free to reach out: [Email Me](beulahn99@gmail.com)
+- 🧾 Check out my blog at [My Blog](https://medium.com/@beyulalex99)
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I’ve been teaching English and practicing yoga for the same amount of time - since 2019!
 
